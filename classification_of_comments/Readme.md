@@ -9,3 +9,5 @@ __Классификация комментариев__
 Используемые библиотеки:
 
 pandas, copy, matplotlib, array, numpy, sklearn, catboost, lightgbm
+
+Статус проекта: __завершен__
