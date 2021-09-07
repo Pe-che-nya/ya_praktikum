@@ -68,4 +68,4 @@ __4. Определение возраста покупателей__
 
 Pandas, tensorflow, keras, matplotlib, seaborn.
 
-Ссылка на проект : [Определение возраста](age determination)
+Ссылка на проект : [Определение возраста](age_determination)
