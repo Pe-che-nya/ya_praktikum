@@ -19,6 +19,6 @@ __Прогноз оттока клиентов в телеком компани�
 
 
 Используемые библиотеки:
-pandas, copy, matplotlib, numpy, sklearn, catboost,array,lightgbm,timeit
+pandas, copy, matplotlib, numpy, sklearn, catboost.
 
 Статус проекта: __завершен__
